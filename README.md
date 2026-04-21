@@ -17,3 +17,4 @@ Task management system with full CRUD operations and local data persistence.
 - JavaScript
 
 ## 📸 Preview
+![Task Manager](https://raw.githubusercontent/vivi472/todo-app/blob/main/Task%20Manager.png)
